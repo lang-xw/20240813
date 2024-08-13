@@ -1,22 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
-First,install related Dependencies
+## 开始
+1.安装依赖
 
 ```bash
 npm install
-#or
-yarn add 
-#or
-pnpm install
 ```
-Second, run the development server:
+2.运行项目
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+、
 ```
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3.项目预览
+
+Open[http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+4.注意
+
+第一次加载时间较长，耐心等待
